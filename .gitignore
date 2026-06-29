@@ -1,0 +1,4 @@
+.env
+tg_session.session
+tg_session.session-journal
+__pycache__/
